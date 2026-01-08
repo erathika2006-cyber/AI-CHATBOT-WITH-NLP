@@ -21,4 +21,5 @@ Natural Language Processing is a branch of artificial intelligence that deals wi
 The chatbot works by following a rule-based approach. Predefined patterns and responses are created using regular expressions. When a user enters a message, the chatbot compares the input with the stored patterns and selects the most suitable response. This approach helps the chatbot handle common queries such as greetings, basic questions about artificial intelligence, and conversation termination commands like “bye” or “exit.” The NLTK reflections feature is also used to make the conversation more natural by converting user statements into appropriate responses.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/1149ff64-fae0-4157-ad22-40fec6c5c7cf)
 
